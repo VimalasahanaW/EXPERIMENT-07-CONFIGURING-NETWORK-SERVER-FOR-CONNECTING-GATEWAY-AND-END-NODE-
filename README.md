@@ -1,4 +1,7 @@
- ### EXPERIMENT -07 CONFIGURING NETWORK SERVER FOR CONNECTING GATEWAY AND END NODE 
+ ## EXPERIMENT -07 CONFIGURING NETWORK SERVER FOR CONNECTING GATEWAY AND END NODE 
+ ## NAME: Vimala Sahana W
+ ## REG NO:212223040241
+ ## DATE:21/10/2024
  
 ## Aim: To  configure  the Network server and end device for traferring data on the network
 ## Components required: end node stm 32 development kit , dragino LPS8, network server 
@@ -47,10 +50,15 @@ To set APP Key
 
 
 ## OUTPUT 
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/858435f2-2f59-435d-ad3f-7ecd377bd0da)
+![WhatsApp Image 2024-10-14 at 9 11 11 AM](https://github.com/user-attachments/assets/bb372fb2-84b5-44a0-bd12-acd48ff3ba79)
+![WhatsApp Image 2024-10-14 at 9 11 13 AM](https://github.com/user-attachments/assets/4a60e2e7-08e4-43ab-b74f-c11bbb021a61)
+![WhatsApp Image 2024-10-14 at 9 11 12 AM](https://github.com/user-attachments/assets/2da932cb-fec9-45de-93d3-f3c18ccabf1c)
+![WhatsApp Image 2024-10-14 at 9 11 45 AM](https://github.com/user-attachments/assets/bb242028-28d6-40e4-9752-277a40f8e616)
+![Screenshot 2024-10-14 090547](https://github.com/user-attachments/assets/cc519fa3-cca8-4fa8-b143-bf74e11f20ba)
 
+![Screenshot 2024-10-14 090658](https://github.com/user-attachments/assets/b5a0cb4e-45e4-4040-a13b-c1b5837fe757)
 
-
+![Screenshot 2024-10-14 090848](https://github.com/user-attachments/assets/20829839-b45f-4a28-99b9-5fd76927fd23)
 
 ## Results: 
 
